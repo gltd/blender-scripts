@@ -3,7 +3,7 @@ write:
   parent_dir: /Users/jak/Documents/repos/fifteen.pm/public/assets/11/objects/
 sources:
   - name: "Scan3D_20200304185937_repaired"
-    parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+    parent_dir: "./data/jwords/"
     transforms:
       move:
         x: 4
@@ -15,7 +15,7 @@ sources:
           ratio: 0.2
 
   - name: "Scan3D_20200304190659_repaired"
-    parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+    parent_dir: "./data/jwords/"
     transforms:
       move:
         x: -5
@@ -27,7 +27,7 @@ sources:
           ratio: 0.2
 
   # - name: "Scan3D_20200304195813_repaired"
-    # parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+    # parent_dir: "./data/jwords"
     # transforms:
     #   modifiers:
     #   - remesh:
@@ -37,7 +37,7 @@ sources:
           # ratio: 0.2
 
   # - name: "Scan3D_20200304203312_original"
-    # parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+    # parent_dir: "./data/jwords"
     # transforms:
     #   modifiers:
     #   - remesh:
@@ -47,7 +47,7 @@ sources:
         #   ratio: 0.2
 
   # - name: "Scan3D_20200304203703_repaired"
-  #   parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+  #   parent_dir: "./data/jwords"
   #   transforms:
   #     modifiers:
     #     - remesh:
@@ -57,7 +57,7 @@ sources:
     #         ratio: 0.2
 
   # - name: "Scan3D_20200304204307_original"
-  #   parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+  #   parent_dir: "./data/jwords"
   #   transforms:
   #     modifiers:
     #     - remesh:
@@ -67,7 +67,7 @@ sources:
     #         ratio: 0.2
 
   # - name: "Scan3D_20200304190426_repaired"
-  #   parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+  #   parent_dir: "./data/jwords"
   #   transforms:
   #     modifiers:
     #     - remesh:
@@ -77,7 +77,7 @@ sources:
     #         ratio: 0.2
 
   # - name: "Scan3D_20200304191652_repaired"
-  #   parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+  #   parent_dir: "./data/jwords"
   #   transforms:
   #     modifiers:
     #     - remesh:
@@ -87,7 +87,7 @@ sources:
     #         ratio: 0.2
 
   # - name: "Scan3D_20200304200658_original"
-  #   parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+  #   parent_dir: "./data/jwords"
   #   transforms:
   #     modifiers:
     #     - remesh:
@@ -97,7 +97,7 @@ sources:
     #         ratio: 0.2
 
   # - name: "Scan3D_20200304203312_repaired"
-  #   parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+  #   parent_dir: "./data/jwords"
   #   transforms:
   #     modifiers:
     #     - remesh:
@@ -107,7 +107,7 @@ sources:
     #         ratio: 0.2
 
   # - name: "Scan3D_20200304204207_original"
-  #   parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+  #   parent_dir: "./data/jwords"
   #   transforms:
   #     modifiers:
     #     - remesh:
@@ -117,7 +117,7 @@ sources:
     #         ratio: 0.2
 
   # - name: "Scan3D_20200304204307_repaired"
-  #   parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+  #   parent_dir: "./data/jwords"
   #   transforms:
   #     modifiers:
     #     - remesh:
@@ -127,7 +127,7 @@ sources:
     #         ratio: 0.2
 
   # - name: "Scan3D_20200304190659_original"
-  #   parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+  #   parent_dir: "./data/jwords"
   #   transforms:
   #     modifiers:
     #     - remesh:
@@ -137,7 +137,7 @@ sources:
     #         ratio: 0.2
 
   # - name: "Scan3D_20200304195813"
-  #   parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+  #   parent_dir: "./data/jwords"
   #   transforms:
   #     modifiers:
     #     - remesh:
@@ -147,7 +147,7 @@ sources:
     #         ratio: 0.2
 
   # - name: "Scan3D_20200304200658_repaired"
-  #   parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+  #   parent_dir: "./data/jwords"
   #   transforms:
   #     modifiers:
     #     - remesh:
@@ -157,7 +157,7 @@ sources:
     #         ratio: 0.2
 
   # - name: "Scan3D_20200304203703_original"
-  #   parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+  #   parent_dir: "./data/jwords"
   #   transforms:
   #     modifiers:
     #     - remesh:
@@ -167,7 +167,7 @@ sources:
     #         ratio: 0.2
 
   # - name: "Scan3D_20200304204207_repaired"
-  #   parent_dir: "/Users/jak/Desktop/15pm/jwords/jwords-captures/exports/"
+  #   parent_dir: "./data/jwords"
   #   transforms:
   #     modifiers:
     #     - remesh:
