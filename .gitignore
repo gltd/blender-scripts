@@ -1,4 +1,5 @@
 .vscode/
 .DS_Store
 modules/*
+!modules/.gitkeep
 __pycache__/
